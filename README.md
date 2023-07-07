@@ -13,7 +13,7 @@
 -manager of the land
 
 
-*Every work done by fied manager get update on the application.
-*Every data is stored on database .
-*Owner can able to view the every work done in field.
-*This application helps to maintaine the data and prediction to the next year planing.
+-Every work done by fied manager get update on the application.
+-Every data is stored on database .
+-Owner can able to view the every work done in field.
+-This application helps to maintaine the data and prediction to the next year planing.
