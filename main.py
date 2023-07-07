@@ -762,7 +762,7 @@ elif rol == 2:
    ma_check()
 else:
    print('Enter The Required Input Alone')
-   print('Restart the portal')
+   print('Restart the portal application')
 
 myConn.commit()
 cur.close()
